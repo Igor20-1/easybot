@@ -1,0 +1,908 @@
+{
+    "brainrot": {
+        "name": "brainrot",
+        "market_cap": 2445060,
+        "contract_address": "APoM2sXUzdRHTkUjXSsdUheX1wPPdP4HFLotmtRNMU8P",
+        "current_price": 0.00300912,
+        "price_change_24h": -0.000231557418564656,
+        "price_change_percentage_24h": -7.14535,
+        "total_volume": 160597,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true,
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "clintex-cti": {
+        "name": "ClinTex CTi",
+        "market_cap": 2692244,
+        "contract_address": "9ET2QCQJdFkeKkuaampNbmicbA8eLYauFCWch9Ddh9p5",
+        "current_price": 0.03634458,
+        "price_change_24h": 0.00656852,
+        "price_change_percentage_24h": 22.05973,
+        "total_volume": 193708,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true,
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "cheese-3": {
+        "name": "Cheese",
+        "market_cap": 2383359,
+        "contract_address": "B1KrhWbacPi3tpjWqnsbjKQJEkp3RvWppGxNzUYBpump",
+        "current_price": 0.00296347,
+        "price_change_24h": -0.000160560587271546,
+        "price_change_percentage_24h": -5.13954,
+        "total_volume": 151419,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true,
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "uprock": {
+        "name": "UpRock",
+        "market_cap": 3060108,
+        "contract_address": "UPTx1d24aBWuRgwxVnFmX4gNraj3QGFzL3QqBgxtWQG",
+        "current_price": 0.01763132,
+        "price_change_24h": 0.00091965,
+        "price_change_percentage_24h": 5.50301,
+        "total_volume": 216084,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true,
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "iq50": {
+        "name": "IQ50",
+        "market_cap": 2964328,
+        "contract_address": "21rweMLGYeMNonHW7H3xa5py17X6ZFRcHirCp9inRBQA",
+        "current_price": 6.05e-06,
+        "price_change_24h": 5.16646e-07,
+        "price_change_percentage_24h": 9.34445,
+        "total_volume": 1219408,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true,
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "carlo-acutis": {
+        "name": "Carlo Acutis",
+        "market_cap": 1071442,
+        "contract_address": "EQs4DEeaSyrhRPM6JPsf2ptLf4EHkcGXB7ybeufxpump",
+        "current_price": 0.00121328,
+        "price_change_24h": -0.000661714956865549,
+        "price_change_percentage_24h": -35.29161,
+        "total_volume": 486242,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "mog": {
+        "name": "MOG",
+        "market_cap": 1099596,
+        "contract_address": "BR4qrJbhGMoGSaF7QtUMvSZRtWhzvMUk5dkgkRrnrn8A",
+        "current_price": 0.00118657,
+        "price_change_24h": 0.00021071,
+        "price_change_percentage_24h": 21.59231,
+        "total_volume": 81186,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "fujimoto": {
+        "name": "Fujimoto",
+        "market_cap": 1014309,
+        "contract_address": "4M79Qjv2Jfjmcq19M41V8QFYohBv2KrgEn9dJhVtpump",
+        "current_price": 0.00113022,
+        "price_change_24h": 0.00023153,
+        "price_change_percentage_24h": 25.76239,
+        "total_volume": 33466,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "null-matrix": {
+        "name": "NULL MATRIX",
+        "market_cap": 1157914,
+        "contract_address": "AD6StJzK8sFJWUetQdsnfHWrmmEs1dtSYuuZLrYkQUy8",
+        "current_price": 124.53,
+        "price_change_24h": 11.0,
+        "price_change_percentage_24h": 9.68834,
+        "total_volume": 31623,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true,
+            "777418176": true
+        }
+    },
+    "lolcat-2": {
+        "name": "Lolcat",
+        "market_cap": 1128121,
+        "contract_address": "Dt6vESocrRixuFz2taZunygpKcNQwxAjUMgYUxvNpump",
+        "current_price": 0.00116865,
+        "price_change_24h": -3.9911266144207e-05,
+        "price_change_percentage_24h": -3.30239,
+        "total_volume": 9192.73,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "shroom": {
+        "name": "Shroom",
+        "market_cap": 1128117,
+        "contract_address": "xyzR4s6H724bUq6q7MTqWxUnhi8LM5fiKKUq38h8M1P",
+        "current_price": 0.00081707,
+        "price_change_24h": 3.732e-05,
+        "price_change_percentage_24h": 4.78551,
+        "total_volume": 4126.89,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "horny": {
+        "name": "$horny",
+        "market_cap": 1095652,
+        "contract_address": "8AS9yeGsAwvTs9gCDKMmB2MgX8NiSvv4uppH61yqpump",
+        "current_price": 0.00115482,
+        "price_change_24h": -0.000147639709947085,
+        "price_change_percentage_24h": -11.33549,
+        "total_volume": 78567,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "trump-47": {
+        "name": "TRUMP 47",
+        "market_cap": 1088936,
+        "contract_address": "HdHqKPz3n52e6FCJREKY3MS56TagyvRxsxVYG7E4rF99",
+        "current_price": 0.00134695,
+        "price_change_24h": 7.673e-05,
+        "price_change_percentage_24h": 6.04053,
+        "total_volume": 447124,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "trump-derangement-syndrome": {
+        "name": "Trump Derangement Syndrome",
+        "market_cap": 990180,
+        "contract_address": "7KuFdcfzbc3LLoRHNRWfW1dhbPNzuCv41hyYbfSUpump",
+        "current_price": 0.00115749,
+        "price_change_24h": -1.5616295357467e-05,
+        "price_change_percentage_24h": -1.3312,
+        "total_volume": 53236,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "solana-ecosystem-index": {
+        "name": "Solana Ecosystem Index",
+        "market_cap": 1084788,
+        "contract_address": "8JnNWJ46yfdq8sKgT1Lk4G7VWkAA8Rhh7LhqgJ6WY41G",
+        "current_price": 9.21,
+        "price_change_24h": 0.569156,
+        "price_change_percentage_24h": 6.58963,
+        "total_volume": 52.14,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "screaming-hyrax": {
+        "name": "Screaming Hyrax",
+        "market_cap": 1186913,
+        "contract_address": "7qBKePC5SqZKDRNsbNhqD6Y6S8JW2CM3KoRv3ztDpump",
+        "current_price": 0.00111206,
+        "price_change_24h": -0.000597581376167137,
+        "price_change_percentage_24h": -34.95369,
+        "total_volume": 1076265,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true,
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "petunia": {
+        "name": "Petunia",
+        "market_cap": 1083109,
+        "contract_address": "8NrAzg558TYtwdGYcwomsLHfdQ5dwEYckXqgfL6tpump",
+        "current_price": 0.00109209,
+        "price_change_24h": 0.00010332,
+        "price_change_percentage_24h": 10.44971,
+        "total_volume": 304442,
+        "notified": false
+    },
+    "dollarmoon-2": {
+        "name": "DollarMoon",
+        "market_cap": 1083064,
+        "contract_address": "9fWeqjzb7xG93T9FPaWggTecvyZZDTXc7VgzNWkisqm4",
+        "current_price": 0.01312001,
+        "price_change_24h": 0.00026461,
+        "price_change_percentage_24h": 2.05837,
+        "total_volume": 7869.06,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "didi-duck": {
+        "name": "Didi Duck",
+        "market_cap": 1085999,
+        "contract_address": "8E5pw1g1nQpmgVyeS1vZx8LokAZvuZgL6G1Uhr4iVbAB",
+        "current_price": 0.00112059,
+        "price_change_24h": 0.00011685,
+        "price_change_percentage_24h": 11.64129,
+        "total_volume": 14164.84,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "choctopus": {
+        "name": "Choctopus",
+        "market_cap": 1050240,
+        "contract_address": "EVrGfAj99Xr1NjqqZv6E2msVKZVmhGaThHhcZXzrpump",
+        "current_price": 0.00159111,
+        "price_change_24h": -3.5573440354928e-05,
+        "price_change_percentage_24h": -2.18686,
+        "total_volume": 48840,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "borpatoken": {
+        "name": "GorplesCoin",
+        "market_cap": 1061553,
+        "contract_address": "BorpaZo2RdiYcriLJu2GRefZdgQPmv63nA8jsVVsMV7W",
+        "current_price": 0.00247714,
+        "price_change_24h": 4.564e-05,
+        "price_change_percentage_24h": 1.87691,
+        "total_volume": 9549.37,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true
+        }
+    },
+    "woke-chain": {
+        "name": "Woke Chain",
+        "market_cap": 1070119,
+        "contract_address": "GmWwuuEagMztKthkdmFmAHBmQps4oGTVyhJEEtTmQyTs",
+        "current_price": 0.00132748,
+        "price_change_24h": 9.521e-05,
+        "price_change_percentage_24h": 7.7266,
+        "total_volume": 6926.92,
+        "notified": false
+    },
+    "okane": {
+        "name": "OKANE",
+        "market_cap": 1002197,
+        "contract_address": "H7N54K1TjCgRtRLanZaPaDczdKFBTAiA4grvcVuArQzr",
+        "current_price": 0.01039677,
+        "price_change_24h": 0.00043653,
+        "price_change_percentage_24h": 4.38272,
+        "total_volume": 23777,
+        "notified": false
+    },
+    "monkey-2": {
+        "name": "Monkey",
+        "market_cap": 1222195,
+        "contract_address": "921MoB1U7VprQfWw5D37a38LCBgB3nareT7rNffk66BG",
+        "current_price": 2.904e-09,
+        "price_change_24h": 6.78956e-10,
+        "price_change_percentage_24h": 30.50823,
+        "total_volume": 311801,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "upsidedowncat-2": {
+        "name": "upsidedowncat",
+        "market_cap": 1058039,
+        "contract_address": "F23fFqpRNsmWjuUrFpfM1pvoVvMSpLuN6hY978Y1JXLt",
+        "current_price": 0.0001271,
+        "price_change_24h": -9.319967301193e-06,
+        "price_change_percentage_24h": -6.83163,
+        "total_volume": 180.3,
+        "notified": false
+    },
+    "intern": {
+        "name": "Intern",
+        "market_cap": 926868,
+        "contract_address": "FPKcUb2ujG5n3Dmy6HZ1ZJSvNszvmeL243655pqfomo",
+        "current_price": 0.00108932,
+        "price_change_24h": -0.000297577128310882,
+        "price_change_percentage_24h": -21.45639,
+        "total_volume": 80900,
+        "notified": false
+    },
+    "rebase-gg-irl": {
+        "name": "Rebase GG IRL",
+        "market_cap": 1090487,
+        "contract_address": "HEmgGwgn6naqNatkU9ST2wHa4X9HRMmxE7qE8vWuV7L2",
+        "current_price": 0.0219442,
+        "price_change_24h": 0.00123397,
+        "price_change_percentage_24h": 5.95828,
+        "total_volume": 67825,
+        "notified": false
+    },
+    "kittenwifhat": {
+        "name": "KittenWifHat",
+        "market_cap": 1057035,
+        "contract_address": "9a8AmDfQxFJ44RrVhKdiXnkwCWT99igWp5QrRuC73Pin",
+        "current_price": 0.00108225,
+        "price_change_24h": 6.149e-05,
+        "price_change_percentage_24h": 6.02368,
+        "total_volume": 1505.62,
+        "notified": false
+    },
+    "catgpt": {
+        "name": "CatGPT",
+        "market_cap": 1059930,
+        "contract_address": "FGf1Us3kqu9AXu2x1yWKfiKE8uSx42ACvRiUrbuAodzq",
+        "current_price": 0.00022452,
+        "price_change_24h": 9.69e-06,
+        "price_change_percentage_24h": 4.51219,
+        "total_volume": 21146,
+        "notified": false
+    },
+    "eye-am-watching-you": {
+        "name": "EYE Am Watching You",
+        "market_cap": 1072047,
+        "contract_address": "6MAWnfagDCzqmHQh88FVt9F1zzLqXpwGJpaL7zUTpump",
+        "current_price": 0.00111482,
+        "price_change_24h": -0.000205537743389237,
+        "price_change_percentage_24h": -15.5668,
+        "total_volume": 175744,
+        "notified": false
+    },
+    "blinks-gg": {
+        "name": "Blinks.gg",
+        "market_cap": 903675,
+        "contract_address": "62CsquahdQ3J286G9UTqV6whxryfihdV4yg7kSJnpump",
+        "current_price": 0.00106665,
+        "price_change_24h": 0.00016951,
+        "price_change_percentage_24h": 18.89496,
+        "total_volume": 304283,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "devin-on-solana": {
+        "name": "Devin",
+        "market_cap": 1015739,
+        "contract_address": "7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo",
+        "current_price": 0.00106886,
+        "price_change_24h": 5.151e-05,
+        "price_change_percentage_24h": 5.0632,
+        "total_volume": 36145,
+        "notified": false
+    },
+    "dancing-triangle-2": {
+        "name": "dancing triangle",
+        "market_cap": 935843,
+        "contract_address": "8QwqzHgsGcVrxgT8Bf4U3MMsiAsFUpxTEEJu3RF7Mpvr",
+        "current_price": 0.00111725,
+        "price_change_24h": 0.00023785,
+        "price_change_percentage_24h": 27.04733,
+        "total_volume": 175131,
+        "notified": false
+    },
+    "pump-2": {
+        "name": "PUMP",
+        "market_cap": 1028957,
+        "contract_address": "5oWc1d4Z6sbrH75J4jSgCCwpgpmJwkpLQbNxiP15qGAA",
+        "current_price": 0.00106312,
+        "price_change_24h": 0.0001037,
+        "price_change_percentage_24h": 10.80835,
+        "total_volume": 11114.53,
+        "notified": false
+    },
+    "noooomeme": {
+        "name": "Noooomeme",
+        "market_cap": 1042854,
+        "contract_address": "4E3CrfKrPWmnE2kFrdeRKyiovpUWpUXHtqXpXzZZsxZ2",
+        "current_price": 0.00106277,
+        "price_change_24h": 2.582e-05,
+        "price_change_percentage_24h": 2.4899,
+        "total_volume": 3432.24,
+        "notified": false
+    },
+    "zack-morris": {
+        "name": "Zack Morris",
+        "market_cap": 1003562,
+        "contract_address": "8vCAUbxejdtaxn6jnX5uaQTyTZLmXALg9u1bvFCAjtx7",
+        "current_price": 0.00121925,
+        "price_change_24h": -1.6329703919496e-05,
+        "price_change_percentage_24h": -1.32163,
+        "total_volume": 350493,
+        "notified": false
+    },
+    "half-orange-drinking-lemonade": {
+        "name": "Half Orange Drinking Lemonade",
+        "market_cap": 1024285,
+        "contract_address": "J9SXKctbZVws65vjBHL91mqStzq5an1xZxdi6a4h853o",
+        "current_price": 0.00105087,
+        "price_change_24h": 1.185e-05,
+        "price_change_percentage_24h": 1.14053,
+        "total_volume": 55735,
+        "notified": false
+    },
+    "sin": {
+        "name": "sinDAO",
+        "market_cap": 1006405,
+        "contract_address": "sin1uRe1cMCWR7VPLdZrGrvKs8UvKMsGzhvpJLg4Ld9",
+        "current_price": 1.57339e-07,
+        "price_change_24h": 1.077e-08,
+        "price_change_percentage_24h": 7.34841,
+        "total_volume": 2728.08,
+        "notified": false
+    },
+    "banana-tape-wall": {
+        "name": "Banana Tape Wall",
+        "market_cap": 939406,
+        "contract_address": "4ytpZgVoNB66bFs6NRCUaAVsLdtYk2fHq4U92Jnjpump",
+        "current_price": 0.00102906,
+        "price_change_24h": -7.7538187125531e-05,
+        "price_change_percentage_24h": -7.00687,
+        "total_volume": 1307210,
+        "notified": false
+    },
+    "ava-the-golden-tiger": {
+        "name": "Ava The Golden Tiger",
+        "market_cap": 1008748,
+        "contract_address": "3aJsBAoLt9to9ncXRp67QtGkueBYo8ozHv9p7ehMeZJy",
+        "current_price": 0.261703,
+        "price_change_24h": -0.0606379634646866,
+        "price_change_percentage_24h": -18.81177,
+        "total_volume": 8551.35,
+        "notified": false
+    },
+    "simon-for-nyc-dog-mayor": {
+        "name": "Simon for NYC  dog Mayor",
+        "market_cap": 979227,
+        "contract_address": "5NmDofUfjrAydmLGRyXrbiYRDZ2LhvdEG3jLWHUTpump",
+        "current_price": 0.00103262,
+        "price_change_24h": -0.000222424283726463,
+        "price_change_percentage_24h": -17.72244,
+        "total_volume": 69025,
+        "notified": false
+    },
+    "santa-2": {
+        "name": "SANTA",
+        "market_cap": 821682,
+        "contract_address": "2EgpQxxRy6SSsXG2YDx8fEM1Z8vyDRHmPAEzSowVpump",
+        "current_price": 0.00104049,
+        "price_change_24h": -0.000223079805105525,
+        "price_change_percentage_24h": -17.65468,
+        "total_volume": 547628,
+        "notified": false
+    },
+    "fatgf": {
+        "name": "FATGF",
+        "market_cap": 970316,
+        "contract_address": "4y9E3tJpGNzRr1592oWTPECgyp2VDSc1Bf3DqAm5FZsK",
+        "current_price": 0.00104525,
+        "price_change_24h": 8.813e-05,
+        "price_change_percentage_24h": 9.20831,
+        "total_volume": 52547,
+        "notified": false
+    },
+    "reflections-of-dissonance-ai": {
+        "name": "Reflections of Dissonance AI",
+        "market_cap": 902495,
+        "contract_address": "BsAEhPN1DKfpjMoSZ5UnDTL4impSYvT9ZpFjnBD2pump",
+        "current_price": 0.00102608,
+        "price_change_24h": -0.000232631396348808,
+        "price_change_percentage_24h": -18.48165,
+        "total_volume": 121925,
+        "notified": false
+    },
+    "broke-again": {
+        "name": "$BROKE again",
+        "market_cap": 1011100,
+        "contract_address": "Fgx5MamDtg4x9vC76N1wYep3xUo71vMB5PrvVCjK7629",
+        "current_price": 0.00119926,
+        "price_change_24h": 6.667e-05,
+        "price_change_percentage_24h": 5.88631,
+        "total_volume": 4.07,
+        "notified": false
+    },
+    "print-protocol": {
+        "name": "Print Protocol",
+        "market_cap": 906222,
+        "contract_address": "8stssUiCFbcB2LqCS62EuU2x1K2NWbJJo1YPgskpftWK",
+        "current_price": 0.00010138,
+        "price_change_24h": -2.106948354248e-05,
+        "price_change_percentage_24h": -17.2066,
+        "total_volume": 10983.44,
+        "notified": false
+    },
+    "looby-by-stephen-bliss": {
+        "name": "Looby by Stephen Bliss",
+        "market_cap": 1029259,
+        "contract_address": "CyRbC97yrkUB31sv9PLw5Hw8276zXH4sRoTE1KcDpump",
+        "current_price": 0.00104703,
+        "price_change_24h": -4.5900261205256e-05,
+        "price_change_percentage_24h": -4.19972,
+        "total_volume": 198413,
+        "notified": false
+    },
+    "pengycoin": {
+        "name": "Pengycoin",
+        "market_cap": 943314,
+        "contract_address": "9YHZjCb14bB9XWZz6FZPTf5nek7kLeoGHmNNrgcxpump",
+        "current_price": 0.0010059,
+        "price_change_24h": 0.00012999,
+        "price_change_percentage_24h": 14.8411,
+        "total_volume": 19276.61,
+        "notified": false
+    },
+    "inme": {
+        "name": "Inme",
+        "market_cap": 970208,
+        "contract_address": "EPJByGLW2jo5ChJS7qeEjM69f6v3mVZdtvDabXT8inme",
+        "current_price": 0.00010001,
+        "price_change_24h": 1.36e-06,
+        "price_change_percentage_24h": 1.37814,
+        "total_volume": 1280.64,
+        "notified": false
+    },
+    "vibe-cat-2": {
+        "name": "Vibe Cat",
+        "market_cap": 2949189,
+        "contract_address": "8tSeXYSXzFvaDX1nbWrEFFaFuPHuWqpzksKYxQPvpump",
+        "current_price": 0.00307999,
+        "price_change_24h": -0.00016193363702334,
+        "price_change_percentage_24h": -4.99499,
+        "total_volume": 505291,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "6342405886": true,
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "earl": {
+        "name": "earl",
+        "market_cap": 3053029,
+        "contract_address": "BjjvKX5k7gQoGRmvQAA5WMr7EkQ2cirGTSGxAznDpump",
+        "current_price": 0.00302838,
+        "price_change_24h": -0.000453823238716226,
+        "price_change_percentage_24h": -13.03264,
+        "total_volume": 290646,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "long-4": {
+        "name": "LONG",
+        "market_cap": 2675312,
+        "contract_address": "2HUDMBsnctpkQo2fdf6Z4ECrXhAJbemJ4NJr4X9Spump",
+        "current_price": 0.00292531,
+        "price_change_24h": 0.0011432,
+        "price_change_percentage_24h": 64.14854,
+        "total_volume": 461099,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "roastmaster9000": {
+        "name": "Roastmaster9000",
+        "market_cap": 2532813,
+        "contract_address": "G6haJithfeUgSghVpu1rDPCq2NFiYcJFHNpHEANbpump",
+        "current_price": 0.00303313,
+        "price_change_24h": -0.000572457166850971,
+        "price_change_percentage_24h": -15.87696,
+        "total_volume": 652313,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "dogefather-2": {
+        "name": "Dogefather",
+        "market_cap": 2728948,
+        "contract_address": "EcYK2XNG4wWr2vDg2M2Hrts6SrU2QB4NzXLBf888pump",
+        "current_price": 0.00297292,
+        "price_change_24h": 0.00041423,
+        "price_change_percentage_24h": 16.1892,
+        "total_volume": 911311,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "dust-protocol": {
+        "name": "Dust Protocol",
+        "market_cap": 5109134,
+        "contract_address": "DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ",
+        "current_price": 0.152618,
+        "price_change_24h": -0.0022218400933363,
+        "price_change_percentage_24h": -1.43493,
+        "total_volume": 78878,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "limbo": {
+        "name": "LIMBO",
+        "market_cap": 4917889,
+        "contract_address": "5UAMZkfNmuVcKzr2wo8Jqw4R1k8vfdAVJNN6h3bVpump",
+        "current_price": 0.00499344,
+        "price_change_24h": 0.00059993,
+        "price_change_percentage_24h": 13.65481,
+        "total_volume": 854817,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "defi-land": {
+        "name": "DeFi Land",
+        "market_cap": 4954442,
+        "contract_address": "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
+        "current_price": 0.00070101,
+        "price_change_24h": 2.90575e-07,
+        "price_change_percentage_24h": 0.04147,
+        "total_volume": 25127,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "clubmoon": {
+        "name": "ClubMoon",
+        "market_cap": 1259287,
+        "contract_address": "5gVSqhk41VA8U6U4Pvux6MSxFWqgptm3w58X9UTGpump",
+        "current_price": 0.00139308,
+        "price_change_24h": 0.00015563,
+        "price_change_percentage_24h": 12.57666,
+        "total_volume": 72512,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "zoomer-sol": {
+        "name": "Zoomer",
+        "market_cap": 1010242,
+        "contract_address": "9MBzpyMRkj2r5nTQZMMnxnCm5j1MAAFSYUtbSKjAF3WU",
+        "current_price": 0.0028789,
+        "price_change_24h": -0.001127387442677141,
+        "price_change_percentage_24h": -28.14042,
+        "total_volume": 432014,
+        "notified": false
+    },
+    "inusol": {
+        "name": "INU",
+        "market_cap": 1025176,
+        "contract_address": "DbaSVQ87gQumixFumMHCrMKFpq5dSYNtKiVNDw3Vpump",
+        "current_price": 0.00114651,
+        "price_change_24h": 0.00017639,
+        "price_change_percentage_24h": 18.18206,
+        "total_volume": 82501,
+        "notified": false
+    },
+    "alpaca-2": {
+        "name": "Alpaca",
+        "market_cap": 757104,
+        "contract_address": "FfgtU4bMte3JRZGX7kcNVywxiGoSqUTga8eZxTSFpump",
+        "current_price": 0.00106615,
+        "price_change_24h": 0.00084586,
+        "price_change_percentage_24h": 383.96801,
+        "total_volume": 544284,
+        "notified": false
+    },
+    "gen-z-quant": {
+        "name": "Gen Z Quant",
+        "market_cap": 1110991,
+        "contract_address": "3an8rhdepsLCya22af7qDBKPbdomw8K4iCHXaA2Gpump",
+        "current_price": 0.00111242,
+        "price_change_24h": 7.88e-05,
+        "price_change_percentage_24h": 7.62364,
+        "total_volume": 4003057,
+        "notified": false
+    },
+    "walter-dog-solana": {
+        "name": "Walter",
+        "market_cap": 1166222,
+        "contract_address": "FV56CmR7fhEyPkymKfmviKV48uPo51ti9kAxssQqTDLu",
+        "current_price": 0.00126996,
+        "price_change_24h": 0.00025964,
+        "price_change_percentage_24h": 25.69904,
+        "total_volume": 212545,
+        "notified": false
+    },
+    "banjo": {
+        "name": "Banjo",
+        "market_cap": 990916,
+        "contract_address": "HmRpmbeGosahTzChmTmKzFHR5SmgSgXFAXKumajgpump",
+        "current_price": 0.00106195,
+        "price_change_24h": -2.4067378969584e-05,
+        "price_change_percentage_24h": -2.2161,
+        "total_volume": 370334,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "monii": {
+        "name": "Monii",
+        "market_cap": 1420864,
+        "contract_address": "8V92q3Zdbzh8UMfybSJW2WTcr3Pe2KNEeJ9cudiWF91y",
+        "current_price": 0.00125734,
+        "price_change_24h": -0.000100379804209025,
+        "price_change_percentage_24h": -7.39328,
+        "total_volume": 1032461,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "bezoge-on-sol": {
+        "name": "BEZOGE on SOL",
+        "market_cap": 1015578,
+        "contract_address": "HUhmmhEiT8H969TS775PiF9w3sDyHgBYkMjGiyMQpump",
+        "current_price": 0.00113407,
+        "price_change_24h": 0.0002337,
+        "price_change_percentage_24h": 25.95625,
+        "total_volume": 168020,
+        "notified": false
+    },
+    "aleph-im-wormhole": {
+        "name": "Aleph.im (Wormhole)",
+        "market_cap": 1152951,
+        "contract_address": "3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x",
+        "current_price": 0.192674,
+        "price_change_24h": -0.0012198217604032,
+        "price_change_percentage_24h": -0.62912,
+        "total_volume": 75779,
+        "notified": false
+    },
+    "apu-apustaja-sol": {
+        "name": "Apu Apustaja (Solana)",
+        "market_cap": 1130045,
+        "contract_address": "ECutGg12PNhqhkvnH1s1FcuXgCDzKDNhSf5aLtANioR7",
+        "current_price": 0.00119947,
+        "price_change_24h": -3.2806767521092e-05,
+        "price_change_percentage_24h": -2.66228,
+        "total_volume": 45666,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "doge-mascot-shibu": {
+        "name": "Doge Mascot Shibu",
+        "market_cap": 1196275,
+        "contract_address": "yG6bXPEFaUnGAEHHqH9H7t1VSfaK7YrggCqHy35pump",
+        "current_price": 0.00119175,
+        "price_change_24h": -0.000228847212960198,
+        "price_change_percentage_24h": -16.1092,
+        "total_volume": 304751,
+        "notified": false,
+        "notified_chats": {
+            "777418176": true,
+            "5076091292": true,
+            "6342405886": true
+        }
+    },
+    "the-ticker-is-eth": {
+        "name": "The Ticker Is ETH",
+        "market_cap": 1188138,
+        "contract_address": "2kaRSuDcz1V1kqq1sDmP23Wy98jutHQQgr5fGDWRpump",
+        "current_price": 0.00116811,
+        "price_change_24h": -7.4748644745244e-05,
+        "price_change_percentage_24h": -6.01425,
+        "total_volume": 47660,
+        "notified": false
+    },
+    "sharki": {
+        "name": "Sharki",
+        "market_cap": 1177259,
+        "contract_address": "6U48jtR53ZK3E1MozLrpwJDTrtj74uuFhMGNzGY18YPu",
+        "current_price": 0.00112244,
+        "price_change_24h": -2.923569319135e-05,
+        "price_change_percentage_24h": -2.53853,
+        "total_volume": 53332,
+        "notified": false
+    },
+    "rat-escape": {
+        "name": "RAT Escape",
+        "market_cap": 1195429,
+        "contract_address": "3vJenGaGsuKG5shPhi7rjnuy3MV6xjmBTGjYqYzXpump",
+        "current_price": 0.00118431,
+        "price_change_24h": 0.00070862,
+        "price_change_percentage_24h": 148.9682,
+        "total_volume": 248984,
+        "notified": false
+    },
+    "solod-the-buddy": {
+        "name": "Solod The Buddy",
+        "market_cap": 1198166,
+        "contract_address": "6AH9xWmRkjsKL3wnMTixhWrht6ZgCsngfUCwt8pDpump",
+        "current_price": 0.00119817,
+        "price_change_24h": -0.000118814068184036,
+        "price_change_percentage_24h": -9.02171,
+        "total_volume": 1120441,
+        "notified": false
+    }
+}
